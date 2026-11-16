@@ -1,0 +1,14 @@
+# Salida de compilación
+bin/
+out/
+*.class
+
+# Configuración de IDE
+.settings/
+.idea/
+*.iml
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
