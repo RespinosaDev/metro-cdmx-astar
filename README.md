@@ -3,7 +3,8 @@
 Aplicación de escritorio en **Java + JavaFX** que calcula la ruta óptima entre dos estaciones del Metro de la Ciudad de México con el algoritmo de búsqueda informada **A\***. Sobre un mapa se dibujan la red y la ruta resultante.
 
 > 🎓 **Proyecto académico**: práctica de la asignatura *Inteligencia Artificial* (3.º del Grado en Ingeniería Informática)<br>
-> Universidad Politécnica de Madrid · Campus de Montegancedo
+> Universidad Politécnica de Madrid · Campus de Montegancedo<br>
+> 👥 Trabajo en grupo (4 personas)
 
 ---
 
