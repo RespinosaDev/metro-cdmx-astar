@@ -1,10 +1,8 @@
 # Metro CDMX · Rutas óptimas con A*
 
-Aplicación de escritorio en **Java + JavaFX** que calcula la ruta óptima entre dos estaciones del Metro de la Ciudad de México con el algoritmo de búsqueda informada **A\***. Sobre un mapa se dibujan la red y la ruta resultante.
+Aplicación de escritorio en **Java + JavaFX** que calcula la mejor ruta entre dos estaciones del Metro de la Ciudad de México usando el algoritmo de búsqueda informada **A\***. La red y la ruta que sale se dibujan sobre un mapa.
 
-> 🎓 **Proyecto académico**: práctica de la asignatura *Inteligencia Artificial* (3.º del Grado en Ingeniería Informática)<br>
-> Universidad Politécnica de Madrid · Campus de Montegancedo<br>
-> 👥 Trabajo en grupo (4 personas)
+Es una práctica de la asignatura *Inteligencia Artificial* (3.º del Grado en Ingeniería Informática, Universidad Politécnica de Madrid). La hicimos en un grupo de 4 personas.
 
 ---
 
@@ -107,7 +105,7 @@ javac -cp junit-platform-console-standalone.jar -d out $(find src/main/algorithm
 java -jar junit-platform-console-standalone.jar execute -cp out --select-package test
 ```
 
-## Posibles mejoras
+## Cosas que se podrían mejorar
 
 - Cargar la red completa desde un fichero (CSV/JSON) en lugar de tenerla en el código.
 - Rellenar los datos de accesibilidad (ascensor/escaleras) de cada estación.
